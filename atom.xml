@@ -3,11 +3,11 @@
   <title>LPY Blog</title>
   
   <subtitle>LPY</subtitle>
-  <link href="https://github.com/lpy0759/atom.xml" rel="self"/>
+  <link href="https://lpy0759.github.io/atom.xml" rel="self"/>
   
-  <link href="https://github.com/lpy0759/"/>
+  <link href="https://lpy0759.github.io/"/>
   <updated>2025-08-29T07:59:17.496Z</updated>
-  <id>https://github.com/lpy0759/</id>
+  <id>https://lpy0759.github.io/</id>
   
   <author>
     <name>LPY</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Test</title>
-    <link href="https://github.com/lpy0759/2025/08/29/Test/"/>
-    <id>https://github.com/lpy0759/2025/08/29/Test/</id>
+    <link href="https://lpy0759.github.io/2025/08/29/Test/"/>
+    <id>https://lpy0759.github.io/2025/08/29/Test/</id>
     <published>2025-08-29T07:53:05.000Z</published>
     <updated>2025-08-29T07:59:17.496Z</updated>
     
@@ -33,8 +33,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/lpy0759/2025/08/29/hello-world/"/>
-    <id>https://github.com/lpy0759/2025/08/29/hello-world/</id>
+    <link href="https://lpy0759.github.io/2025/08/29/hello-world/"/>
+    <id>https://lpy0759.github.io/2025/08/29/hello-world/</id>
     <published>2025-08-29T02:55:50.360Z</published>
     <updated>2025-08-29T07:56:02.665Z</updated>
     

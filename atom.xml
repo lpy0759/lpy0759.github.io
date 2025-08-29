@@ -6,7 +6,7 @@
   <link href="https://github.com/lpy0759/atom.xml" rel="self"/>
   
   <link href="https://github.com/lpy0759/"/>
-  <updated>2025-08-29T02:55:50.361Z</updated>
+  <updated>2025-08-29T07:59:17.496Z</updated>
   <id>https://github.com/lpy0759/</id>
   
   <author>
@@ -17,17 +17,29 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Test</title>
+    <link href="https://github.com/lpy0759/2025/08/29/Test/"/>
+    <id>https://github.com/lpy0759/2025/08/29/Test/</id>
+    <published>2025-08-29T07:53:05.000Z</published>
+    <updated>2025-08-29T07:59:17.496Z</updated>
+    
+    
+    <summary type="html">Test</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="https://github.com/lpy0759/2025/08/29/hello-world/"/>
     <id>https://github.com/lpy0759/2025/08/29/hello-world/</id>
     <published>2025-08-29T02:55:50.360Z</published>
-    <updated>2025-08-29T02:55:50.361Z</updated>
+    <updated>2025-08-29T07:56:02.665Z</updated>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
+    <summary type="html">Hello World</summary>
     
     
     

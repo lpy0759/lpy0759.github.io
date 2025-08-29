@@ -3,11 +3,11 @@
   <title>LPY Blog</title>
   
   <subtitle>LPY</subtitle>
-  <link href="https://github.com/atom.xml" rel="self"/>
+  <link href="https://github.com/lpy0759/atom.xml" rel="self"/>
   
-  <link href="https://github.com/"/>
-  <updated>2025-08-29T02:55:50.361Z</updated>
-  <id>https://github.com/</id>
+  <link href="https://github.com/lpy0759/"/>
+  <updated>2025-08-29T07:46:45.733Z</updated>
+  <id>https://github.com/lpy0759/</id>
   
   <author>
     <name>LPY</name>
@@ -17,9 +17,28 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Test</title>
+    <link href="https://github.com/lpy0759/2025/08/29/Test/"/>
+    <id>https://github.com/lpy0759/2025/08/29/Test/</id>
+    <published>2025-08-29T07:46:02.000Z</published>
+    <updated>2025-08-29T07:46:45.733Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这是一个测试文件&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="https://github.com/2025/08/29/hello-world/"/>
-    <id>https://github.com/2025/08/29/hello-world/</id>
+    <link href="https://github.com/lpy0759/2025/08/29/hello-world/"/>
+    <id>https://github.com/lpy0759/2025/08/29/hello-world/</id>
     <published>2025-08-29T02:55:50.360Z</published>
     <updated>2025-08-29T02:55:50.361Z</updated>
     
